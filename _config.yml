@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
+title: Git Cheat Sheet Spanish
+description: Guía de comandos en Git
+show_downloads: "true"
